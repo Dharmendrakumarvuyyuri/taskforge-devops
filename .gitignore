@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Env / secrets
+.env
+.env.*
+*.secret
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Test/cache
+.pytest_cache/
+.mypy_cache/
+
+# Build
+dist/
+build/
